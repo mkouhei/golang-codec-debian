@@ -1,0 +1,5 @@
+golang-codec (0.0~git20131216+cdeae7b-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Mon, 27 Jan 2014 15:30:57 +0900
