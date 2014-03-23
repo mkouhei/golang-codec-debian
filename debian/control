@@ -1,4 +1,4 @@
-Source: golang-codec
+Source: golang-ugorji-go
 Priority: extra
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
 Build-Depends: debhelper (>= 9.0.0),
@@ -13,7 +13,7 @@ Standards-Version: 3.9.5
 Section: devel
 Homepage: https://github.com/ugorji/go
 
-Package: golang-codec-dev
+Package: golang-ugorji-go-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: encode/decode and rpc library for msgpack and Binc
