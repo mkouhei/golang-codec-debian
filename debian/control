@@ -4,8 +4,8 @@ Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
 Build-Depends: debhelper (>= 9.0.0),
 	dh-golang,
 	golang-go,
-	golang-bson-dev,
-	golang-msgpack-dev,
+	golang-mgo-bson-dev,
+	golang-vmihailenco-msgpack-dev,
 	python-all,
 	python-msgpack,
 	python-msgpackrpc
